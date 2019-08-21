@@ -1,0 +1,1 @@
+This is scotts first git project!
